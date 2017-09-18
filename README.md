@@ -2,6 +2,8 @@
 
 前几天看到[我交知行论坛](http://zhixing.bjtu.edu.cn/portal.php)官方准备做小程序，虽然我没有固定的时间参加，但是由于职业病，也趁着开会的间隙，写个一个只展示十大的小程序玩玩，期待官方的小程序问世
 
+
+待更新详情页
 ```
 ├── server_node    后台node版
 ├── server_python  后台Python版
